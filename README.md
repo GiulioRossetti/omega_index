@@ -1,6 +1,6 @@
-[![pyversions](https://img.shields.io/pypi/pyversions/omega_index.svg)](https://badge.fury.io/py/omega_index)
-[![Updates](https://pyup.io/repos/github/isaranto/omega_index/shield.svg)](https://pyup.io/repos/github/isaranto/omega_index/)
-[![PyPI version](https://badge.fury.io/py/omega_index.svg)](https://badge.fury.io/py/omega_index)
+[![pyversions](https://img.shields.io/pypi/pyversions/omega_index_py3.svg)](https://badge.fury.io/py/omega_index_py3)
+[![Updates](https://pyup.io/repos/github/gouliorossetti/omega_index_py3/shield.svg)](https://pyup.io/repos/github/giuliorossetti/omega_index_py3/)
+[![PyPI version](https://badge.fury.io/py/omega_index_py3.svg)](https://badge.fury.io/py/omega_index_py3)
 
 
 # omega_index
@@ -21,8 +21,6 @@ or, if you prefer a local user installation:
 
     $ pip install --user omega_index
     
-
-You can use Python 2.7 or 3.6, [download Here!](https://www.python.org/downloads/)
 
 ## Usage
 
